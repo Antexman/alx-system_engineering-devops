@@ -1,1 +1,1 @@
-ls - list files and directories
+pwd - print working directory
